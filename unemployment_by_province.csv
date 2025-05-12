@@ -1,0 +1,851 @@
+Year,Province,Unemployment_Rate
+2000,Aceh,7.2
+2001,Aceh,9.0
+2002,Aceh,8.6
+2003,Aceh,7.6
+2004,Aceh,7.7
+2005,Aceh,6.4
+2006,Aceh,8.0
+2007,Aceh,8.0
+2008,Aceh,10.2
+2009,Aceh,10.8
+2010,Aceh,7.8
+2011,Aceh,8.4
+2012,Aceh,8.3
+2013,Aceh,7.1
+2014,Aceh,6.5
+2015,Aceh,9.3
+2016,Aceh,6.5
+2017,Aceh,8.0
+2018,Aceh,8.8
+2019,Aceh,6.4
+2020,Aceh,9.1
+2021,Aceh,11.5
+2022,Aceh,6.9
+2023,Aceh,7.4
+2024,Aceh,7.6
+2000,Sumatera Utara,5.3
+2001,Sumatera Utara,6.9
+2002,Sumatera Utara,6.9
+2003,Sumatera Utara,7.2
+2004,Sumatera Utara,7.4
+2005,Sumatera Utara,7.5
+2006,Sumatera Utara,7.2
+2007,Sumatera Utara,7.0
+2008,Sumatera Utara,7.6
+2009,Sumatera Utara,8.8
+2010,Sumatera Utara,6.1
+2011,Sumatera Utara,6.1
+2012,Sumatera Utara,6.9
+2013,Sumatera Utara,6.7
+2014,Sumatera Utara,7.1
+2015,Sumatera Utara,4.7
+2016,Sumatera Utara,5.5
+2017,Sumatera Utara,6.0
+2018,Sumatera Utara,6.1
+2019,Sumatera Utara,6.5
+2020,Sumatera Utara,8.9
+2021,Sumatera Utara,9.3
+2022,Sumatera Utara,4.7
+2023,Sumatera Utara,7.0
+2024,Sumatera Utara,6.4
+2000,Sumatera Barat,4.0
+2001,Sumatera Barat,5.6
+2002,Sumatera Barat,4.6
+2003,Sumatera Barat,3.5
+2004,Sumatera Barat,5.3
+2005,Sumatera Barat,3.9
+2006,Sumatera Barat,4.0
+2007,Sumatera Barat,4.9
+2008,Sumatera Barat,7.6
+2009,Sumatera Barat,6.8
+2010,Sumatera Barat,5.3
+2011,Sumatera Barat,5.0
+2012,Sumatera Barat,4.6
+2013,Sumatera Barat,6.3
+2014,Sumatera Barat,3.5
+2015,Sumatera Barat,5.1
+2016,Sumatera Barat,4.5
+2017,Sumatera Barat,4.0
+2018,Sumatera Barat,5.4
+2019,Sumatera Barat,4.7
+2020,Sumatera Barat,7.3
+2021,Sumatera Barat,8.3
+2022,Sumatera Barat,5.5
+2023,Sumatera Barat,3.4
+2024,Sumatera Barat,5.3
+2000,Riau,5.4
+2001,Riau,3.3
+2002,Riau,4.9
+2003,Riau,3.5
+2004,Riau,4.1
+2005,Riau,5.3
+2006,Riau,2.9
+2007,Riau,5.6
+2008,Riau,4.9
+2009,Riau,4.1
+2010,Riau,4.9
+2011,Riau,4.0
+2012,Riau,4.8
+2013,Riau,5.1
+2014,Riau,3.5
+2015,Riau,4.2
+2016,Riau,3.3
+2017,Riau,4.4
+2018,Riau,5.4
+2019,Riau,5.0
+2020,Riau,7.8
+2021,Riau,5.7
+2022,Riau,4.2
+2023,Riau,5.2
+2024,Riau,5.1
+2000,Jambi,5.4
+2001,Jambi,5.2
+2002,Jambi,6.3
+2003,Jambi,6.6
+2004,Jambi,5.6
+2005,Jambi,6.8
+2006,Jambi,4.9
+2007,Jambi,5.8
+2008,Jambi,7.7
+2009,Jambi,6.9
+2010,Jambi,5.9
+2011,Jambi,5.4
+2012,Jambi,6.7
+2013,Jambi,4.9
+2014,Jambi,4.8
+2015,Jambi,5.2
+2016,Jambi,4.8
+2017,Jambi,5.6
+2018,Jambi,4.5
+2019,Jambi,7.0
+2020,Jambi,7.1
+2021,Jambi,9.1
+2022,Jambi,5.9
+2023,Jambi,4.6
+2024,Jambi,6.6
+2000,Sumatera Selatan,3.2
+2001,Sumatera Selatan,5.3
+2002,Sumatera Selatan,4.2
+2003,Sumatera Selatan,2.9
+2004,Sumatera Selatan,5.1
+2005,Sumatera Selatan,3.7
+2006,Sumatera Selatan,3.5
+2007,Sumatera Selatan,2.8
+2008,Sumatera Selatan,6.4
+2009,Sumatera Selatan,4.7
+2010,Sumatera Selatan,2.6
+2011,Sumatera Selatan,2.5
+2012,Sumatera Selatan,2.9
+2013,Sumatera Selatan,3.4
+2014,Sumatera Selatan,2.7
+2015,Sumatera Selatan,2.6
+2016,Sumatera Selatan,3.3
+2017,Sumatera Selatan,3.9
+2018,Sumatera Selatan,5.0
+2019,Sumatera Selatan,3.8
+2020,Sumatera Selatan,4.9
+2021,Sumatera Selatan,6.0
+2022,Sumatera Selatan,4.7
+2023,Sumatera Selatan,4.7
+2024,Sumatera Selatan,2.6
+2000,Bengkulu,9.3
+2001,Bengkulu,8.1
+2002,Bengkulu,8.1
+2003,Bengkulu,7.5
+2004,Bengkulu,9.4
+2005,Bengkulu,7.3
+2006,Bengkulu,7.7
+2007,Bengkulu,7.4
+2008,Bengkulu,10.7
+2009,Bengkulu,9.6
+2010,Bengkulu,7.6
+2011,Bengkulu,7.6
+2012,Bengkulu,7.8
+2013,Bengkulu,8.0
+2014,Bengkulu,8.2
+2015,Bengkulu,7.4
+2016,Bengkulu,6.5
+2017,Bengkulu,8.2
+2018,Bengkulu,8.2
+2019,Bengkulu,7.5
+2020,Bengkulu,11.5
+2021,Bengkulu,9.5
+2022,Bengkulu,6.5
+2023,Bengkulu,8.7
+2024,Bengkulu,8.7
+2000,Lampung,8.6
+2001,Lampung,6.9
+2002,Lampung,8.9
+2003,Lampung,6.9
+2004,Lampung,6.2
+2005,Lampung,7.8
+2006,Lampung,6.9
+2007,Lampung,7.4
+2008,Lampung,8.3
+2009,Lampung,8.4
+2010,Lampung,6.5
+2011,Lampung,7.6
+2012,Lampung,6.2
+2013,Lampung,8.4
+2014,Lampung,7.2
+2015,Lampung,6.9
+2016,Lampung,6.7
+2017,Lampung,7.6
+2018,Lampung,8.3
+2019,Lampung,7.7
+2020,Lampung,11.0
+2021,Lampung,10.2
+2022,Lampung,7.7
+2023,Lampung,8.4
+2024,Lampung,7.5
+2000,Kepulauan Bangka Belitung,5.7
+2001,Kepulauan Bangka Belitung,3.6
+2002,Kepulauan Bangka Belitung,5.7
+2003,Kepulauan Bangka Belitung,4.1
+2004,Kepulauan Bangka Belitung,5.0
+2005,Kepulauan Bangka Belitung,4.0
+2006,Kepulauan Bangka Belitung,4.3
+2007,Kepulauan Bangka Belitung,6.2
+2008,Kepulauan Bangka Belitung,6.6
+2009,Kepulauan Bangka Belitung,6.5
+2010,Kepulauan Bangka Belitung,5.4
+2011,Kepulauan Bangka Belitung,5.0
+2012,Kepulauan Bangka Belitung,3.6
+2013,Kepulauan Bangka Belitung,6.1
+2014,Kepulauan Bangka Belitung,5.2
+2015,Kepulauan Bangka Belitung,3.6
+2016,Kepulauan Bangka Belitung,5.7
+2017,Kepulauan Bangka Belitung,4.9
+2018,Kepulauan Bangka Belitung,4.3
+2019,Kepulauan Bangka Belitung,4.1
+2020,Kepulauan Bangka Belitung,7.9
+2021,Kepulauan Bangka Belitung,8.2
+2022,Kepulauan Bangka Belitung,5.7
+2023,Kepulauan Bangka Belitung,6.4
+2024,Kepulauan Bangka Belitung,3.9
+2000,Kepulauan Riau,5.2
+2001,Kepulauan Riau,6.1
+2002,Kepulauan Riau,6.5
+2003,Kepulauan Riau,6.6
+2004,Kepulauan Riau,7.0
+2005,Kepulauan Riau,7.1
+2006,Kepulauan Riau,5.5
+2007,Kepulauan Riau,6.5
+2008,Kepulauan Riau,9.0
+2009,Kepulauan Riau,8.3
+2010,Kepulauan Riau,5.3
+2011,Kepulauan Riau,6.4
+2012,Kepulauan Riau,7.2
+2013,Kepulauan Riau,5.2
+2014,Kepulauan Riau,5.9
+2015,Kepulauan Riau,5.8
+2016,Kepulauan Riau,7.5
+2017,Kepulauan Riau,5.4
+2018,Kepulauan Riau,5.6
+2019,Kepulauan Riau,5.0
+2020,Kepulauan Riau,9.8
+2021,Kepulauan Riau,9.9
+2022,Kepulauan Riau,7.6
+2023,Kepulauan Riau,7.3
+2024,Kepulauan Riau,6.6
+2000,DKI Jakarta,5.9
+2001,DKI Jakarta,7.2
+2002,DKI Jakarta,5.6
+2003,DKI Jakarta,8.0
+2004,DKI Jakarta,8.4
+2005,DKI Jakarta,5.6
+2006,DKI Jakarta,5.9
+2007,DKI Jakarta,6.9
+2008,DKI Jakarta,8.7
+2009,DKI Jakarta,8.1
+2010,DKI Jakarta,6.5
+2011,DKI Jakarta,6.7
+2012,DKI Jakarta,6.4
+2013,DKI Jakarta,6.8
+2014,DKI Jakarta,7.8
+2015,DKI Jakarta,6.0
+2016,DKI Jakarta,8.2
+2017,DKI Jakarta,7.4
+2018,DKI Jakarta,7.2
+2019,DKI Jakarta,8.0
+2020,DKI Jakarta,8.0
+2021,DKI Jakarta,7.9
+2022,DKI Jakarta,8.2
+2023,DKI Jakarta,6.7
+2024,DKI Jakarta,6.5
+2000,Jawa Barat,6.2
+2001,Jawa Barat,5.2
+2002,Jawa Barat,5.1
+2003,Jawa Barat,5.3
+2004,Jawa Barat,6.5
+2005,Jawa Barat,5.0
+2006,Jawa Barat,6.9
+2007,Jawa Barat,7.4
+2008,Jawa Barat,9.4
+2009,Jawa Barat,7.0
+2010,Jawa Barat,6.6
+2011,Jawa Barat,6.0
+2012,Jawa Barat,7.6
+2013,Jawa Barat,7.7
+2014,Jawa Barat,5.1
+2015,Jawa Barat,7.4
+2016,Jawa Barat,7.2
+2017,Jawa Barat,5.5
+2018,Jawa Barat,6.0
+2019,Jawa Barat,5.9
+2020,Jawa Barat,8.7
+2021,Jawa Barat,9.8
+2022,Jawa Barat,6.4
+2023,Jawa Barat,6.0
+2024,Jawa Barat,6.2
+2000,Jawa Tengah,4.8
+2001,Jawa Tengah,5.0
+2002,Jawa Tengah,4.8
+2003,Jawa Tengah,4.7
+2004,Jawa Tengah,5.7
+2005,Jawa Tengah,5.1
+2006,Jawa Tengah,5.5
+2007,Jawa Tengah,4.7
+2008,Jawa Tengah,7.1
+2009,Jawa Tengah,5.4
+2010,Jawa Tengah,5.0
+2011,Jawa Tengah,6.0
+2012,Jawa Tengah,6.6
+2013,Jawa Tengah,5.3
+2014,Jawa Tengah,6.4
+2015,Jawa Tengah,5.5
+2016,Jawa Tengah,4.8
+2017,Jawa Tengah,5.4
+2018,Jawa Tengah,5.0
+2019,Jawa Tengah,3.7
+2020,Jawa Tengah,6.3
+2021,Jawa Tengah,5.9
+2022,Jawa Tengah,4.2
+2023,Jawa Tengah,4.2
+2024,Jawa Tengah,6.0
+2000,DI Yogyakarta,8.0
+2001,DI Yogyakarta,8.7
+2002,DI Yogyakarta,6.9
+2003,DI Yogyakarta,8.1
+2004,DI Yogyakarta,6.8
+2005,DI Yogyakarta,7.0
+2006,DI Yogyakarta,7.4
+2007,DI Yogyakarta,7.2
+2008,DI Yogyakarta,10.2
+2009,DI Yogyakarta,10.0
+2010,DI Yogyakarta,8.6
+2011,DI Yogyakarta,7.7
+2012,DI Yogyakarta,6.4
+2013,DI Yogyakarta,8.6
+2014,DI Yogyakarta,6.4
+2015,DI Yogyakarta,6.1
+2016,DI Yogyakarta,8.1
+2017,DI Yogyakarta,7.5
+2018,DI Yogyakarta,7.8
+2019,DI Yogyakarta,9.0
+2020,DI Yogyakarta,8.7
+2021,DI Yogyakarta,10.3
+2022,DI Yogyakarta,8.9
+2023,DI Yogyakarta,7.7
+2024,DI Yogyakarta,6.5
+2000,Jawa Timur,5.6
+2001,Jawa Timur,5.7
+2002,Jawa Timur,3.3
+2003,Jawa Timur,3.0
+2004,Jawa Timur,3.2
+2005,Jawa Timur,4.2
+2006,Jawa Timur,5.7
+2007,Jawa Timur,5.0
+2008,Jawa Timur,4.7
+2009,Jawa Timur,4.7
+2010,Jawa Timur,4.5
+2011,Jawa Timur,4.8
+2012,Jawa Timur,3.1
+2013,Jawa Timur,4.4
+2014,Jawa Timur,5.7
+2015,Jawa Timur,4.7
+2016,Jawa Timur,3.0
+2017,Jawa Timur,5.2
+2018,Jawa Timur,3.5
+2019,Jawa Timur,5.3
+2020,Jawa Timur,7.2
+2021,Jawa Timur,6.0
+2022,Jawa Timur,5.6
+2023,Jawa Timur,5.6
+2024,Jawa Timur,3.1
+2000,Banten,7.0
+2001,Banten,7.1
+2002,Banten,6.4
+2003,Banten,7.7
+2004,Banten,6.6
+2005,Banten,9.0
+2006,Banten,9.0
+2007,Banten,6.8
+2008,Banten,10.0
+2009,Banten,9.8
+2010,Banten,6.7
+2011,Banten,7.9
+2012,Banten,7.5
+2013,Banten,9.2
+2014,Banten,7.9
+2015,Banten,9.2
+2016,Banten,8.7
+2017,Banten,9.3
+2018,Banten,8.6
+2019,Banten,6.5
+2020,Banten,9.5
+2021,Banten,11.3
+2022,Banten,7.8
+2023,Banten,9.1
+2024,Banten,8.5
+2000,Bali,9.1
+2001,Bali,6.2
+2002,Bali,7.5
+2003,Bali,8.4
+2004,Bali,7.7
+2005,Bali,6.5
+2006,Bali,7.6
+2007,Bali,7.3
+2008,Bali,9.3
+2009,Bali,9.7
+2010,Bali,7.7
+2011,Bali,7.9
+2012,Bali,7.8
+2013,Bali,8.5
+2014,Bali,6.4
+2015,Bali,9.0
+2016,Bali,7.1
+2017,Bali,9.0
+2018,Bali,8.4
+2019,Bali,8.3
+2020,Bali,10.6
+2021,Bali,10.2
+2022,Bali,8.4
+2023,Bali,6.4
+2024,Bali,7.1
+2000,Nusa Tenggara Barat,5.6
+2001,Nusa Tenggara Barat,5.3
+2002,Nusa Tenggara Barat,4.5
+2003,Nusa Tenggara Barat,3.6
+2004,Nusa Tenggara Barat,5.1
+2005,Nusa Tenggara Barat,3.1
+2006,Nusa Tenggara Barat,5.0
+2007,Nusa Tenggara Barat,3.5
+2008,Nusa Tenggara Barat,7.1
+2009,Nusa Tenggara Barat,6.2
+2010,Nusa Tenggara Barat,3.8
+2011,Nusa Tenggara Barat,3.6
+2012,Nusa Tenggara Barat,5.6
+2013,Nusa Tenggara Barat,4.9
+2014,Nusa Tenggara Barat,5.1
+2015,Nusa Tenggara Barat,3.7
+2016,Nusa Tenggara Barat,3.5
+2017,Nusa Tenggara Barat,5.4
+2018,Nusa Tenggara Barat,5.5
+2019,Nusa Tenggara Barat,3.2
+2020,Nusa Tenggara Barat,6.5
+2021,Nusa Tenggara Barat,7.5
+2022,Nusa Tenggara Barat,4.7
+2023,Nusa Tenggara Barat,4.1
+2024,Nusa Tenggara Barat,3.9
+2000,Nusa Tenggara Timur,4.2
+2001,Nusa Tenggara Timur,4.7
+2002,Nusa Tenggara Timur,4.0
+2003,Nusa Tenggara Timur,3.7
+2004,Nusa Tenggara Timur,3.9
+2005,Nusa Tenggara Timur,5.5
+2006,Nusa Tenggara Timur,5.1
+2007,Nusa Tenggara Timur,5.2
+2008,Nusa Tenggara Timur,6.3
+2009,Nusa Tenggara Timur,5.9
+2010,Nusa Tenggara Timur,5.8
+2011,Nusa Tenggara Timur,4.4
+2012,Nusa Tenggara Timur,5.8
+2013,Nusa Tenggara Timur,4.0
+2014,Nusa Tenggara Timur,5.3
+2015,Nusa Tenggara Timur,6.5
+2016,Nusa Tenggara Timur,6.0
+2017,Nusa Tenggara Timur,6.0
+2018,Nusa Tenggara Timur,5.5
+2019,Nusa Tenggara Timur,3.6
+2020,Nusa Tenggara Timur,6.1
+2021,Nusa Tenggara Timur,7.7
+2022,Nusa Tenggara Timur,4.2
+2023,Nusa Tenggara Timur,5.5
+2024,Nusa Tenggara Timur,4.4
+2000,Kalimantan Barat,5.5
+2001,Kalimantan Barat,5.4
+2002,Kalimantan Barat,7.0
+2003,Kalimantan Barat,5.7
+2004,Kalimantan Barat,5.5
+2005,Kalimantan Barat,5.8
+2006,Kalimantan Barat,5.9
+2007,Kalimantan Barat,7.4
+2008,Kalimantan Barat,7.7
+2009,Kalimantan Barat,9.2
+2010,Kalimantan Barat,7.1
+2011,Kalimantan Barat,6.2
+2012,Kalimantan Barat,7.1
+2013,Kalimantan Barat,5.7
+2014,Kalimantan Barat,5.5
+2015,Kalimantan Barat,6.8
+2016,Kalimantan Barat,5.1
+2017,Kalimantan Barat,6.7
+2018,Kalimantan Barat,7.1
+2019,Kalimantan Barat,4.8
+2020,Kalimantan Barat,8.7
+2021,Kalimantan Barat,8.4
+2022,Kalimantan Barat,5.1
+2023,Kalimantan Barat,5.7
+2024,Kalimantan Barat,7.1
+2000,Kalimantan Tengah,7.6
+2001,Kalimantan Tengah,5.9
+2002,Kalimantan Tengah,5.2
+2003,Kalimantan Tengah,5.2
+2004,Kalimantan Tengah,5.3
+2005,Kalimantan Tengah,6.6
+2006,Kalimantan Tengah,6.9
+2007,Kalimantan Tengah,6.0
+2008,Kalimantan Tengah,7.6
+2009,Kalimantan Tengah,7.7
+2010,Kalimantan Tengah,5.7
+2011,Kalimantan Tengah,5.1
+2012,Kalimantan Tengah,7.4
+2013,Kalimantan Tengah,6.9
+2014,Kalimantan Tengah,4.7
+2015,Kalimantan Tengah,6.5
+2016,Kalimantan Tengah,5.7
+2017,Kalimantan Tengah,6.1
+2018,Kalimantan Tengah,5.4
+2019,Kalimantan Tengah,7.4
+2020,Kalimantan Tengah,7.6
+2021,Kalimantan Tengah,9.4
+2022,Kalimantan Tengah,5.9
+2023,Kalimantan Tengah,6.0
+2024,Kalimantan Tengah,4.9
+2000,Kalimantan Selatan,5.4
+2001,Kalimantan Selatan,4.4
+2002,Kalimantan Selatan,7.1
+2003,Kalimantan Selatan,4.5
+2004,Kalimantan Selatan,4.6
+2005,Kalimantan Selatan,5.8
+2006,Kalimantan Selatan,5.6
+2007,Kalimantan Selatan,6.4
+2008,Kalimantan Selatan,6.5
+2009,Kalimantan Selatan,6.6
+2010,Kalimantan Selatan,4.4
+2011,Kalimantan Selatan,7.1
+2012,Kalimantan Selatan,7.0
+2013,Kalimantan Selatan,4.5
+2014,Kalimantan Selatan,6.3
+2015,Kalimantan Selatan,4.7
+2016,Kalimantan Selatan,4.4
+2017,Kalimantan Selatan,5.4
+2018,Kalimantan Selatan,5.5
+2019,Kalimantan Selatan,6.9
+2020,Kalimantan Selatan,6.7
+2021,Kalimantan Selatan,9.1
+2022,Kalimantan Selatan,5.6
+2023,Kalimantan Selatan,4.4
+2024,Kalimantan Selatan,5.6
+2000,Kalimantan Timur,4.5
+2001,Kalimantan Timur,5.7
+2002,Kalimantan Timur,5.2
+2003,Kalimantan Timur,5.7
+2004,Kalimantan Timur,4.5
+2005,Kalimantan Timur,5.8
+2006,Kalimantan Timur,4.4
+2007,Kalimantan Timur,3.2
+2008,Kalimantan Timur,4.8
+2009,Kalimantan Timur,6.1
+2010,Kalimantan Timur,5.9
+2011,Kalimantan Timur,3.9
+2012,Kalimantan Timur,5.4
+2013,Kalimantan Timur,3.6
+2014,Kalimantan Timur,5.4
+2015,Kalimantan Timur,4.4
+2016,Kalimantan Timur,3.7
+2017,Kalimantan Timur,5.7
+2018,Kalimantan Timur,4.0
+2019,Kalimantan Timur,5.1
+2020,Kalimantan Timur,8.0
+2021,Kalimantan Timur,8.2
+2022,Kalimantan Timur,4.3
+2023,Kalimantan Timur,3.3
+2024,Kalimantan Timur,4.3
+2000,Kalimantan Utara,7.4
+2001,Kalimantan Utara,7.2
+2002,Kalimantan Utara,6.9
+2003,Kalimantan Utara,7.8
+2004,Kalimantan Utara,6.2
+2005,Kalimantan Utara,6.3
+2006,Kalimantan Utara,7.3
+2007,Kalimantan Utara,5.8
+2008,Kalimantan Utara,7.9
+2009,Kalimantan Utara,7.4
+2010,Kalimantan Utara,7.1
+2011,Kalimantan Utara,6.8
+2012,Kalimantan Utara,8.2
+2013,Kalimantan Utara,6.6
+2014,Kalimantan Utara,8.0
+2015,Kalimantan Utara,8.4
+2016,Kalimantan Utara,8.3
+2017,Kalimantan Utara,7.2
+2018,Kalimantan Utara,5.6
+2019,Kalimantan Utara,7.8
+2020,Kalimantan Utara,10.8
+2021,Kalimantan Utara,11.0
+2022,Kalimantan Utara,7.6
+2023,Kalimantan Utara,6.1
+2024,Kalimantan Utara,8.4
+2000,Sulawesi Utara,5.8
+2001,Sulawesi Utara,8.0
+2002,Sulawesi Utara,7.3
+2003,Sulawesi Utara,5.6
+2004,Sulawesi Utara,6.1
+2005,Sulawesi Utara,6.7
+2006,Sulawesi Utara,7.3
+2007,Sulawesi Utara,6.1
+2008,Sulawesi Utara,8.1
+2009,Sulawesi Utara,7.9
+2010,Sulawesi Utara,5.7
+2011,Sulawesi Utara,5.6
+2012,Sulawesi Utara,6.3
+2013,Sulawesi Utara,5.3
+2014,Sulawesi Utara,6.5
+2015,Sulawesi Utara,7.8
+2016,Sulawesi Utara,5.4
+2017,Sulawesi Utara,5.7
+2018,Sulawesi Utara,6.7
+2019,Sulawesi Utara,7.9
+2020,Sulawesi Utara,9.2
+2021,Sulawesi Utara,9.9
+2022,Sulawesi Utara,7.9
+2023,Sulawesi Utara,7.1
+2024,Sulawesi Utara,7.2
+2000,Sulawesi Tengah,8.0
+2001,Sulawesi Tengah,7.4
+2002,Sulawesi Tengah,7.6
+2003,Sulawesi Tengah,8.1
+2004,Sulawesi Tengah,9.0
+2005,Sulawesi Tengah,6.6
+2006,Sulawesi Tengah,8.2
+2007,Sulawesi Tengah,8.9
+2008,Sulawesi Tengah,8.9
+2009,Sulawesi Tengah,9.7
+2010,Sulawesi Tengah,9.0
+2011,Sulawesi Tengah,7.9
+2012,Sulawesi Tengah,7.4
+2013,Sulawesi Tengah,6.7
+2014,Sulawesi Tengah,7.6
+2015,Sulawesi Tengah,8.4
+2016,Sulawesi Tengah,8.1
+2017,Sulawesi Tengah,8.4
+2018,Sulawesi Tengah,7.6
+2019,Sulawesi Tengah,7.5
+2020,Sulawesi Tengah,9.0
+2021,Sulawesi Tengah,11.4
+2022,Sulawesi Tengah,8.7
+2023,Sulawesi Tengah,8.8
+2024,Sulawesi Tengah,8.9
+2000,Sulawesi Selatan,8.8
+2001,Sulawesi Selatan,8.9
+2002,Sulawesi Selatan,6.7
+2003,Sulawesi Selatan,8.5
+2004,Sulawesi Selatan,7.8
+2005,Sulawesi Selatan,7.9
+2006,Sulawesi Selatan,7.0
+2007,Sulawesi Selatan,8.6
+2008,Sulawesi Selatan,9.8
+2009,Sulawesi Selatan,7.9
+2010,Sulawesi Selatan,6.8
+2011,Sulawesi Selatan,8.8
+2012,Sulawesi Selatan,8.7
+2013,Sulawesi Selatan,6.6
+2014,Sulawesi Selatan,7.2
+2015,Sulawesi Selatan,7.6
+2016,Sulawesi Selatan,9.0
+2017,Sulawesi Selatan,7.6
+2018,Sulawesi Selatan,8.0
+2019,Sulawesi Selatan,6.9
+2020,Sulawesi Selatan,9.6
+2021,Sulawesi Selatan,8.9
+2022,Sulawesi Selatan,7.2
+2023,Sulawesi Selatan,7.1
+2024,Sulawesi Selatan,7.5
+2000,Sulawesi Tenggara,4.5
+2001,Sulawesi Tenggara,5.5
+2002,Sulawesi Tenggara,5.0
+2003,Sulawesi Tenggara,3.4
+2004,Sulawesi Tenggara,4.5
+2005,Sulawesi Tenggara,3.3
+2006,Sulawesi Tenggara,3.4
+2007,Sulawesi Tenggara,5.4
+2008,Sulawesi Tenggara,4.6
+2009,Sulawesi Tenggara,6.0
+2010,Sulawesi Tenggara,4.7
+2011,Sulawesi Tenggara,5.1
+2012,Sulawesi Tenggara,4.2
+2013,Sulawesi Tenggara,5.3
+2014,Sulawesi Tenggara,5.3
+2015,Sulawesi Tenggara,3.5
+2016,Sulawesi Tenggara,4.1
+2017,Sulawesi Tenggara,4.4
+2018,Sulawesi Tenggara,4.6
+2019,Sulawesi Tenggara,3.4
+2020,Sulawesi Tenggara,7.7
+2021,Sulawesi Tenggara,7.1
+2022,Sulawesi Tenggara,5.5
+2023,Sulawesi Tenggara,4.1
+2024,Sulawesi Tenggara,3.3
+2000,Gorontalo,3.2
+2001,Gorontalo,3.6
+2002,Gorontalo,3.8
+2003,Gorontalo,3.4
+2004,Gorontalo,3.6
+2005,Gorontalo,4.2
+2006,Gorontalo,2.8
+2007,Gorontalo,4.7
+2008,Gorontalo,5.2
+2009,Gorontalo,5.1
+2010,Gorontalo,4.1
+2011,Gorontalo,3.5
+2012,Gorontalo,5.0
+2013,Gorontalo,4.3
+2014,Gorontalo,5.2
+2015,Gorontalo,3.4
+2016,Gorontalo,5.5
+2017,Gorontalo,5.7
+2018,Gorontalo,3.3
+2019,Gorontalo,3.2
+2020,Gorontalo,7.8
+2021,Gorontalo,6.0
+2022,Gorontalo,3.2
+2023,Gorontalo,3.6
+2024,Gorontalo,3.4
+2000,Sulawesi Barat,4.7
+2001,Sulawesi Barat,3.4
+2002,Sulawesi Barat,5.1
+2003,Sulawesi Barat,4.4
+2004,Sulawesi Barat,4.7
+2005,Sulawesi Barat,3.7
+2006,Sulawesi Barat,3.8
+2007,Sulawesi Barat,5.8
+2008,Sulawesi Barat,4.8
+2009,Sulawesi Barat,6.2
+2010,Sulawesi Barat,5.4
+2011,Sulawesi Barat,3.7
+2012,Sulawesi Barat,4.9
+2013,Sulawesi Barat,4.8
+2014,Sulawesi Barat,5.5
+2015,Sulawesi Barat,3.6
+2016,Sulawesi Barat,4.8
+2017,Sulawesi Barat,5.2
+2018,Sulawesi Barat,3.2
+2019,Sulawesi Barat,5.6
+2020,Sulawesi Barat,7.7
+2021,Sulawesi Barat,5.2
+2022,Sulawesi Barat,3.1
+2023,Sulawesi Barat,3.1
+2024,Sulawesi Barat,5.1
+2000,Maluku,6.4
+2001,Maluku,8.0
+2002,Maluku,8.4
+2003,Maluku,6.1
+2004,Maluku,7.7
+2005,Maluku,8.4
+2006,Maluku,7.9
+2007,Maluku,8.6
+2008,Maluku,8.1
+2009,Maluku,7.4
+2010,Maluku,6.1
+2011,Maluku,6.2
+2012,Maluku,8.5
+2013,Maluku,7.0
+2014,Maluku,5.9
+2015,Maluku,6.5
+2016,Maluku,7.5
+2017,Maluku,8.6
+2018,Maluku,8.1
+2019,Maluku,7.3
+2020,Maluku,10.5
+2021,Maluku,9.1
+2022,Maluku,5.8
+2023,Maluku,8.4
+2024,Maluku,7.0
+2000,Maluku Utara,7.0
+2001,Maluku Utara,6.6
+2002,Maluku Utara,4.6
+2003,Maluku Utara,7.1
+2004,Maluku Utara,5.6
+2005,Maluku Utara,5.4
+2006,Maluku Utara,5.8
+2007,Maluku Utara,5.3
+2008,Maluku Utara,8.1
+2009,Maluku Utara,7.8
+2010,Maluku Utara,5.5
+2011,Maluku Utara,5.7
+2012,Maluku Utara,5.8
+2013,Maluku Utara,5.3
+2014,Maluku Utara,5.4
+2015,Maluku Utara,4.1
+2016,Maluku Utara,5.6
+2017,Maluku Utara,4.4
+2018,Maluku Utara,4.3
+2019,Maluku Utara,5.3
+2020,Maluku Utara,7.5
+2021,Maluku Utara,8.6
+2022,Maluku Utara,6.3
+2023,Maluku Utara,5.5
+2024,Maluku Utara,4.5
+2000,Papua Barat,5.1
+2001,Papua Barat,3.8
+2002,Papua Barat,4.6
+2003,Papua Barat,4.0
+2004,Papua Barat,5.5
+2005,Papua Barat,6.3
+2006,Papua Barat,6.2
+2007,Papua Barat,4.1
+2008,Papua Barat,7.2
+2009,Papua Barat,7.4
+2010,Papua Barat,5.3
+2011,Papua Barat,5.9
+2012,Papua Barat,4.5
+2013,Papua Barat,4.1
+2014,Papua Barat,6.6
+2015,Papua Barat,5.8
+2016,Papua Barat,5.9
+2017,Papua Barat,4.4
+2018,Papua Barat,5.4
+2019,Papua Barat,5.4
+2020,Papua Barat,7.4
+2021,Papua Barat,9.4
+2022,Papua Barat,4.8
+2023,Papua Barat,3.9
+2024,Papua Barat,6.0
+2000,Papua,5.8
+2001,Papua,7.4
+2002,Papua,6.1
+2003,Papua,8.5
+2004,Papua,7.8
+2005,Papua,6.1
+2006,Papua,6.5
+2007,Papua,6.4
+2008,Papua,7.7
+2009,Papua,7.9
+2010,Papua,6.4
+2011,Papua,6.1
+2012,Papua,8.5
+2013,Papua,7.0
+2014,Papua,6.6
+2015,Papua,7.2
+2016,Papua,6.5
+2017,Papua,6.9
+2018,Papua,7.9
+2019,Papua,6.0
+2020,Papua,11.3
+2021,Papua,8.7
+2022,Papua,8.0
+2023,Papua,7.5
+2024,Papua,6.6
