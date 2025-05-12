@@ -207,7 +207,7 @@ def main():
         df = pd.read_csv(uploaded_file)
     else:
         # Use example data
-        df = pd.read_csv('unemployment_data.csv')
+        df = pd.read_csv('unemployment_by_province.csv')
     
     # Sidebar for data selection and parameters
     st.sidebar.header('📊 Data Selection')
@@ -224,7 +224,7 @@ def main():
             st.sidebar.warning('Please upload a file or select "Use Example Data"')
             return
     else:
-        df = pd.read_csv('unemployment_data.csv')
+        df = pd.read_csv('unemployment_by_province.csv')
     
     # Display the data in main area
     col1, col2 = st.columns([2, 1])
